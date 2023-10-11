@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.oradores{
+    text-align: center;
+}
+
+
+
+.fondo{ 
+    color: white;
+    background-color: rgb(55, 55, 55);
+}
+
+.fondodos{
+    margin: 0 !important;
+    background-color: #234550;
+    padding-top: 10px;
+  }
+
+.centro{
+    width: 70%;
+  
+  }
+
+
+
